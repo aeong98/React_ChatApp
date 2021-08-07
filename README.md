@@ -13,4 +13,4 @@
 
 ✔️시작하는법 : 아이디: user / 패스워드 : 1234
 
-[Chat App](https://chat-application-seoyeon.netlify.app)
+서비스 사용해보기 : [Chat App](https://chat-application-seoyeon.netlify.app)
