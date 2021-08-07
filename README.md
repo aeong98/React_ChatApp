@@ -8,3 +8,9 @@
 + 읽음 표시
 + 이미지 전송
 + 나와 다른 사용자 채팅 구분 
+
+`React JS` `Websocket` `Javascript`
+
+✔️시작하는법 : 아이디: user / 패스워드 : 1234
+
+[Chat App](https://chat-application-seoyeon.netlify.app)
